@@ -2,9 +2,8 @@
 
 Code and reproducibility material for the paper:
 
-> **"A Computationally Efficient Predict-then-Optimize Framework:
-> Structure-Informed Learning and Conformal Robust Optimization for
-> Circular Supply Chains"**
+> **"A Structure-Informed Predict-then-Optimize Framework with Conformal
+> Guarantees for Circular Supply Chain Management"**
 > Qazi Salman Khalid, Muzzamil Mustafa, Usman Aftab Butt, Tajdar Khan.
 
 This repository contains **all code, results, and execution logs** needed to
